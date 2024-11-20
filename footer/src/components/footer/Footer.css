@@ -1,0 +1,32 @@
+.footer-logo {
+    width: 150px;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-info h5 {
+    margin-bottom: 1rem;
+  }
+  
+  .footer-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-info ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-info ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-info ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-icon {
+    width: 30px;
+    height: 30px;
+  }
+  
